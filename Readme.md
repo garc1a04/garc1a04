@@ -16,7 +16,7 @@
 
 ## Social midia 🌎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-669863262/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guigarciamonteiro@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.garc1a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.garc1a/)
 
 ## Stats 📊
 [![garc1a04 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=garc1a04&show_icons=true&theme=dark#gh-dark-mode-only)]()
