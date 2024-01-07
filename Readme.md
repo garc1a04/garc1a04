@@ -1,5 +1,7 @@
 # Welcome to my profile 👋
-    I'm Guilherme Garcia, and i wanna one chance for show my abilities...
+```
+I'm Guilherme Garcia, and i wanna one chance for show my abilities... 
+```
 
 ## Soft Skills 🦾🧠
 
@@ -16,7 +18,7 @@
 
 ## Social midia 🌎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-669863262/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.garc1a/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTHVrkzbDKxnKMqKjrZpZbnRSXxPZcFFTpnMcrkbsldxJTBMHqQzJXvDzvwtQxzjmsPBqV) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.garc1a/)
 
 ## Stats 📊
-[![garc1a04 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=garc1a04&show_icons=true&theme=dark#gh-dark-mode-only)]()
+[![garc1a04 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=garc1a04&theme=dark)]()
