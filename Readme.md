@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/guilherme-garcia-669863262/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:guigarciamonteiro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/garc1a04">
