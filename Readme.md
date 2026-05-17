@@ -1,9 +1,5 @@
-<h1 align="left">👋 Hey there! Welcome to my profile!</h1>
-
-> *"I enjoy building systems, studying algorithms, and experimenting with AI and game development."*
-
 <div align="center">
-  <img align="center" src="Assets/dave-the-diver-anime.gif" width="60%" style="border-radius: 10px; margin-bottom: 15px;">
+  <img align="center" src="Assets/dave-the-diver-anime.gif" width="100%" style="border-radius: 10px; margin-bottom: 15px;">
 </div>
 
 <br clear="both">
