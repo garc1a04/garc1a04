@@ -8,6 +8,7 @@
 
 <br>
 
+### 🏆 Featured Work & Core Stack
 <h1 align="left">🏆 Featured Work & Core Stack</h1>
 | Project | Architecture & Focus | Applied Tech |
 | :--- | :--- | :--- |
