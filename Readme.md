@@ -9,7 +9,6 @@
 <br>
 
 ### 🏆 Featured Work & Core Stack
-<h1 align="left">🏆 Featured Work & Core Stack</h1>
 | Project | Architecture & Focus | Applied Tech |
 | :--- | :--- | :--- |
 | 👥 **[ReferralSystem](https://github.com/garc1a04/ReferralSystem)** | **Full-Stack Architecture:** Scalable referral tracking system managing user relationships, custom link generation, and business logic. | <img align="center" src="https://skillicons.dev/icons?i=spring,java,js,html,css" height="25" /> |
