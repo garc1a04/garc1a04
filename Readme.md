@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hey there! Welcome to my profile!</h1>
 
-<div align="center">
-  <img align="right" src="Assets/computer.gif" alt="pc-computer" width="300px" style="border-radius: 15px;">
-</div>
-
 > *"I enjoy building systems, studying algorithms, and experimenting with AI and game development."*
+
+<div align="center">
+  <img align="center" src="Assets/dave-the-diver-anime.gif" width="60%" style="border-radius: 10px; margin-bottom: 15px;">
+</div>
 
 <br clear="both">
 
@@ -69,7 +69,7 @@ I'm always open to talking about backend development, algorithms, machine learni
 ---
 
 <div align="center">
-  <img src="Assets/4_Diving.gif" alt="Mario Diving" width="60%" style="border-radius: 10px; margin-bottom: 15px;"/>
+  <img src="Assets/4_Diving.gif" alt="dave dolphins" width="60%" style="border-radius: 10px; margin-bottom: 15px;"/>
   
   <p><i>Thanks for dropping by! See you in the code. 👾</i></p>
 </div>
