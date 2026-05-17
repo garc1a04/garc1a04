@@ -69,7 +69,7 @@ I'm always open to talking about backend development, algorithms, machine learni
 ---
 
 <div align="center">
-  <img src="Assets/4_Diving.gif" alt="dave dolphins" width="60%" style="border-radius: 10px; margin-bottom: 15px;"/>
+  <img src="Assets/4_Diving.gif" alt="dave dolphins" width="100%" style="border-radius: 10px; margin-bottom: 15px;"/>
   
   <p><i>Thanks for dropping by! See you in the code. 👾</i></p>
 </div>
