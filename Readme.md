@@ -1,83 +1,65 @@
-<h1 align="left">👋 Welcome to my profile!</h1>
+<h1 align="left">👋 Hey there! Welcome to my profile!</h1>
 
-<img align="right" src="Assets/computer.gif" alt="pc-computer" width="360px" style="border-radius: 15px;">
+<div align="center">
+  <img align="right" src="Assets/computer.gif" alt="pc-computer" width="300px" style="border-radius: 15px;">
+</div>
 
-<blockquote style="font-style: italic; color: #aaa;">
-  “Give me one chance, and I’ll show you my abilities.”
-</blockquote>
+> *"Building robust, scalable software through Clean Architecture and continuous learning."*
 
 <br>
 
-<p style="font-size: 30px;">
-  Hey there! I'm <strong>Guilherme Garcia</strong>, a Computer Engineering student and passionate developer from Brazil 🇧🇷.  
-  I love exploring new technologies, solving complex problems, and creating meaningful projects — from backend systems to interactive games.
-</p>
+### 🏆 Featured Work & Core Stack
+| Project | Architecture & Focus | Applied Tech |
+| :--- | :--- | :--- |
+| 👥 **[ReferralSystem](https://github.com/garc1a04/ReferralSystem)** | **Full-Stack Architecture:** Scalable referral tracking system managing user relationships, custom link generation, and business logic. | <img align="center" src="https://skillicons.dev/icons?i=spring,java,js,html,css" height="25" /> |
+| 🧬 **[API-POKEDEX](https://github.com/garc1a04/Pokedex-Unifor)** | **AI & Microservices:** Orchestration of custom convolutional neural networks for image recognition and classification. | <img align="center" src="https://skillicons.dev/icons?i=ts,express,python,docker" height="25" /> |
+| 🖼️ **[Image Processing API](#)** | **Cloud Security & Performance:** High-performance file transformations using Sharp, MinIO integration, and secure presigned URLs. | <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="25" /> |
+| 📖 **[IndiceRemissivo](https://github.com/garc1a04/IndiceRemissivo)** | **Data Structures & Algorithms:** Efficient text parsing engine utilizing complex data structures for fast, automated cross-referencing. | <img align="center" src="https://skillicons.dev/icons?i=java" height="25" /> |
+| 🔍 **[Github-User-Code](https://github.com/garc1a04/Github-User-Code)** | **API Integration:** Responsive client-side application consuming the GitHub REST API to fetch and render developer data dynamically. | <img align="center" src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
 
 <br>
 
-# 🧠 Tech Stack
+### 👨‍💻 About Me
+I'm **Guilherme Garcia Monteiro**, a 7th-semester Computer Engineering student at Unifor and a Full-Stack Developer Intern at Vortex 🇧🇷. 
+I am deeply passionate about **Competitive Programming**, solving complex problems, and creating meaningful projects. My experience ranges from crafting high-performance REST APIs to exploring artificial intelligence and modern software architecture.
 
-### 💻 Languages
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-
-### 🎨 Frontend
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-</div>
-
-### ⚙️ Backend & Databases
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
-
-### 🧰 Tools & IDEs
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-</div>
-
+### 🚀 Current Focus
+- 🏗️ Designing and building **REST APIs** and microservices with **TypeScript/NestJS**, **Java/Spring Boot**, and **Clojure**
+- 🧠 Studying **Artificial Intelligence & Machine Learning**, including neural networks, pattern recognition, and custom classifiers
 ---
 
-## 🌍 Connect with Me
+## 🤝 Let's Connect!
+
+I'm always open to discussing backend architecture, machine learning, or game development. Feel free to reach out!
 
 <p align="left">
+  <a href="https://garc1a04.github.io/Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/guilherme-garcia-669863262/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:guigarciamonteiro@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/garc1a04">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/garc1a04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=garc1a04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garc1a04&layout=compact&theme=tokyonight&hide_border=true"/>
-  
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garc1a04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garc1a04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garc1a04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="Assets/4_Diving.gif" alt="Mario Game" width="70%" style="border-radius: 10px;"/>
+  <img src="Assets/4_Diving.gif" alt="Mario Diving" width="60%" style="border-radius: 10px; margin-bottom: 15px;"/>
+  <p><i>Thanks for dropping by! See you in the code. 👾</i></p>
 </div>
