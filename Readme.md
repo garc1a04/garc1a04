@@ -2,7 +2,7 @@
   <img align="center" src="Assets/donkey.gif" width="100%" style="border-radius: 10px; margin-bottom: 15px;">
 </div>
 
-<h1 align="left">👋 Hey there! Welcome to my profile!</h1>
+<h1 align="left">👋 Welcome to my profile!</h1>
 
 ## 🏆 Featured Projects
 
