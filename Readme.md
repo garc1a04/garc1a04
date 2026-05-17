@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | 👥 **[ReferralSystem](https://github.com/garc1a04/ReferralSystem)** | **Full-Stack Architecture:** Scalable referral tracking system managing user relationships, custom link generation, and business logic. | <img align="center" src="https://skillicons.dev/icons?i=spring,java,js,html,css" height="25" /> |
 | 🧬 **[API-POKEDEX](https://github.com/garc1a04/Pokedex-Unifor)** | **AI & Microservices:** Orchestration of custom convolutional neural networks for image recognition and classification. | <img align="center" src="https://skillicons.dev/icons?i=ts,express,python,docker" height="25" /> |
-| 🖼️ **[Image Processing API](#)** | **Cloud Security & Performance:** High-performance file transformations using Sharp, MinIO integration, and secure presigned URLs. | <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="25" /> |
+| 🖼️ **[Image Processing API](https://github.com/garc1a04/image_processing)** | **Cloud Security & Performance:** High-performance file transformations using Sharp, MinIO integration, and secure presigned URLs. | <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="25" /> |
 | 📖 **[IndiceRemissivo](https://github.com/garc1a04/IndiceRemissivo)** | **Data Structures & Algorithms:** Efficient text parsing engine utilizing complex data structures for fast, automated cross-referencing. | <img align="center" src="https://skillicons.dev/icons?i=java" height="25" /> |
 | 🔍 **[Github-User-Code](https://github.com/garc1a04/Github-User-Code)** | **API Integration:** Responsive client-side application consuming the GitHub REST API to fetch and render developer data dynamically. | <img align="center" src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
 
