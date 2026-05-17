@@ -28,22 +28,12 @@ Currently, I'm focused on improving my skills in backend engineering, algorithms
 
 ---
 
----
-
 ## 🚀 Current Focus
 
 - 🏗️ Building REST APIs and backend systems with **Java/Spring Boot**, **NestJS**, and **Clojure**
 - 🧠 Studying **Artificial Intelligence & Machine Learning**
 - ⚔️ Practicing **Competitive Programming** and problem solving
 - 🎮 Experimenting with **Game Development using Godot**
-
----
-
-## 🛠️ Technologies I Work With
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,nestjs,python,docker,postgresql,mysql,html,css,git,linux,clojure,godot" />
-</div>
 
 ---
 
