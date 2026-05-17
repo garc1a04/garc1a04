@@ -33,7 +33,6 @@ Currently, I'm focused on improving my skills in backend engineering, algorithms
 - 🏗️ Building REST APIs and backend systems with **Java/Spring Boot**, **NestJS**, and **Clojure**
 - 🧠 Studying **Artificial Intelligence & Machine Learning**
 - ⚔️ Practicing **Competitive Programming** and problem solving
-- 🎮 Experimenting with **Game Development using Godot**
 
 ---
 
