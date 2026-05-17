@@ -4,10 +4,6 @@
 
 <h1 align="left">👋 Hey there! Welcome to my profile!</h1>
 
-> *"I enjoy building systems, studying algorithms, and experimenting with AI and game development."*
-
-<br clear="both">
-
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
