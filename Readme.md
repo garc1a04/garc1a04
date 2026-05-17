@@ -6,7 +6,7 @@
 
 > *"Building robust, scalable software through Clean Architecture and continuous learning."*
 
-<br>
+<br clear="both">
 
 ### 🏆 Featured Work & Core Stack
 | Project | Architecture & Focus | Applied Tech |
