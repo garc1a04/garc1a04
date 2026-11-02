@@ -55,9 +55,9 @@ I'm always open to talking about backend development, algorithms, machine learni
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garc1a04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=garc1a04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garc1a04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=garc1a04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garc1a04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
