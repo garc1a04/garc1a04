@@ -79,14 +79,9 @@ I have over a year of hands-on experience in Full-Stack and AI development. I bu
 <a id="stack"></a>
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | <img align="center" src="https://skillicons.dev/icons?i=ts,js,python,java,ruby,clojure" height="32" /> &nbsp; SQL · Ruby (basic) |
-| **Back-end** | <img align="center" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,spring" height="32" /> |
-| **Front-end** | <img align="center" src="https://skillicons.dev/icons?i=react,html,css" height="32" /> &nbsp; AngularJS |
-| **Databases & Cache** | <img align="center" src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="32" /> &nbsp; TypeORM |
-| **Testing** | <img align="center" src="https://skillicons.dev/icons?i=jest,vitest" height="32" /> |
-| **DevOps & Tools** | <img align="center" src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger" height="32" /> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,ruby,clojure,nodejs,nestjs,express,fastapi,spring,react,html,css,postgres,mysql,redis,jest,vitest,docker,git,github,postman,angular,pytorch&perline=12" alt="Tech stack" />
+</p>
 
 ### 🧱 Architecture & Engineering Practices
 
