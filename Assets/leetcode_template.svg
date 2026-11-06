@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12062a"/><stop offset="1" stop-color="#3a0d4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="210" fill="url(#bg)"/>
+  <g fill="#ffd23f">
+    <rect x="60" y="30" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/></rect>
+    <rect x="180" y="150" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="780" y="40" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="840" y="160" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="450" y="18" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2.8s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="8" y="8" width="884" height="194" fill="none" stroke="#ff3da1" stroke-width="4"/>
+  <rect x="16" y="16" width="868" height="178" fill="none" stroke="#ff9f1c" stroke-width="2"/>
+
+  <text x="454" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#12062a">LEETCODE  ·  {{USERNAME}}</text>
+  <text x="450" y="64" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#ffd23f">LEETCODE  ·  {{USERNAME}}</text>
+
+  <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
+    <text x="190" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RANKING</text>
+    <text x="190" y="158" font-size="34" fill="#ff3da1">#{{RANK}}</text>
+
+    <text x="450" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RESOLVIDOS</text>
+    <text x="450" y="158" font-size="34" fill="#ffd23f">{{SOLVED}}</text>
+
+    <text x="710" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY / MED / HARD</text>
+    <text x="710" y="158" font-size="28" fill="#ff9f1c">{{EMH}}</text>
+  </g>
+  <g fill="#ff3da1">
+    <rect x="318" y="108" width="4" height="56"/>
+    <rect x="578" y="108" width="4" height="56"/>
+  </g>
+
+  <text x="450" y="184" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" letter-spacing="2" fill="#8a6fa8">ATUALIZADO EM {{UPDATED}}</text>
+</svg>
