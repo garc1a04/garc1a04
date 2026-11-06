@@ -20,13 +20,13 @@
 
   <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
     <text x="190" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RANKING</text>
-    <text x="190" y="158" font-size="34" fill="#ff3da1">#3.346.001</text>
+    <text x="190" y="158" font-size="34" fill="#ff3da1">#{{RANK}}</text>
 
     <text x="450" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RESOLVIDOS</text>
     <text x="450" y="158" font-size="34" fill="#ffd23f">37</text>
 
     <text x="710" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY / MED / HARD</text>
-    <text x="710" y="158" font-size="28" fill="#ff9f1c">25/11/1</text>
+    <text x="710" y="158" font-size="28" fill="#ff9f1c">{{EMH}}</text>
   </g>
   <g fill="#ff3da1">
     <rect x="318" y="108" width="4" height="56"/>

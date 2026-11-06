@@ -1,8 +1,7 @@
 <div align="center">
   <img src="Assets/donkey.gif" width="100%" style="border-radius: 10px;" alt="Pixel art banner" />
   <img src="Assets/title.svg" width="100%" alt="Guilherme Garcia - Computer Engineering - Backend / Full-Stack Developer" />
-  <!-- LEETCODE:START -->
-  <!-- LEETCODE:END -->
+   <img src="Assets/leetcode.svg" width="100%" alt="Guilherme Garcia - Leetcode" >
 </div>
 
 <div align="center">
