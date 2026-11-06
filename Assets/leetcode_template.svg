@@ -1,37 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#12062a"/><stop offset="1" stop-color="#3a0d4f"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="210" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#bg)"/>
   <g fill="#ffd23f">
     <rect x="60" y="30" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/></rect>
-    <rect x="180" y="150" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="180" y="110" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.6s" repeatCount="indefinite"/></rect>
     <rect x="780" y="40" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></rect>
-    <rect x="840" y="160" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="840" y="105" width="4" height="4"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.9s" repeatCount="indefinite"/></rect>
     <rect x="450" y="18" width="4" height="4"><animate attributeName="opacity" values="1;0.1;1" dur="2.8s" repeatCount="indefinite"/></rect>
   </g>
-  <rect x="8" y="8" width="884" height="194" fill="none" stroke="#ff3da1" stroke-width="4"/>
-  <rect x="16" y="16" width="868" height="178" fill="none" stroke="#ff9f1c" stroke-width="2"/>
+  <rect x="8" y="8" width="884" height="264" fill="none" stroke="#ff3da1" stroke-width="4"/>
+  <rect x="16" y="16" width="868" height="248" fill="none" stroke="#ff9f1c" stroke-width="2"/>
 
-  <text x="454" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#12062a">LEETCODE  ·  {{USERNAME}}</text>
-  <text x="450" y="64" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#ffd23f">LEETCODE  ·  {{USERNAME}}</text>
+  <!-- Nome -->
+  <text x="454" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#12062a">LEETCODE  ·  GARC1A04</text>
+  <text x="450" y="64" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold" font-size="44" fill="#ffd23f">LEETCODE  ·  GARC1A04</text>
 
+  <!-- Estatísticas -->
   <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
-    <text x="190" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RANKING</text>
-    <text x="190" y="158" font-size="34" fill="#ff3da1">#{{RANK}}</text>
+    <text x="150" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RESOLVIDOS</text>
+    <text x="150" y="158" font-size="36" fill="#ffd23f">{{SOLVED}}</text>
 
-    <text x="450" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RESOLVIDOS</text>
-    <text x="450" y="158" font-size="34" fill="#ffd23f">{{SOLVED}}</text>
+    <text x="350" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY</text>
+    <text x="350" y="158" font-size="36" fill="#2ec4b6">{{EASY}}</text>
 
-    <text x="710" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY / MED / HARD</text>
-    <text x="710" y="158" font-size="28" fill="#ff9f1c">{{EMH}}</text>
+    <text x="550" y="124" font-size="14" letter-spacing="2" fill="#ffd23f">MEDIUM</text>
+    <text x="550" y="158" font-size="36" fill="#ffd23f">{{MEDIUM}}</text>
+
+    <text x="750" y="124" font-size="14" letter-spacing="2" fill="#ff3da1">HARD</text>
+    <text x="750" y="158" font-size="36" fill="#ff3da1">{{HARD}}</text>
   </g>
   <g fill="#ff3da1">
-    <rect x="318" y="108" width="4" height="56"/>
-    <rect x="578" y="108" width="4" height="56"/>
+    <rect x="248" y="108" width="4" height="56"/>
+    <rect x="448" y="108" width="4" height="56"/>
+    <rect x="648" y="108" width="4" height="56"/>
   </g>
 
-  <text x="450" y="184" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" letter-spacing="2" fill="#8a6fa8">ATUALIZADO EM {{UPDATED}}</text>
+  <!-- Divisor -->
+  <rect x="40" y="178" width="820" height="2" fill="#ff9f1c"/>
+
+  <!-- Últimas submissões -->
+  <text x="40" y="198" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">ULTIMAS SUBMISSOES ACEITAS</text>
+  <text x="860" y="198" text-anchor="end" font-family="'Courier New',monospace" font-size="11" letter-spacing="2" fill="#8a6fa8">ATUALIZADO EM {{UPDATED}}</text>
+  <g font-family="'Courier New',monospace" font-size="14" fill="#ffd23f">
+    <text x="40" y="222">{{RECENT1}}</text>
+    <text x="40" y="240">{{RECENT2}}</text>
+    <text x="40" y="258">{{RECENT3}}</text>
+  </g>
 </svg>
