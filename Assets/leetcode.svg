@@ -22,10 +22,10 @@
   <!-- Estatísticas -->
   <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
     <text x="150" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">RESOLVIDOS</text>
-    <text x="150" y="158" font-size="36" fill="#ffd23f">37</text>
+    <text x="150" y="158" font-size="36" fill="#ffd23f">38</text>
 
     <text x="350" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY</text>
-    <text x="350" y="158" font-size="36" fill="#2ec4b6">25</text>
+    <text x="350" y="158" font-size="36" fill="#2ec4b6">26</text>
 
     <text x="550" y="124" font-size="14" letter-spacing="2" fill="#ffd23f">MEDIUM</text>
     <text x="550" y="158" font-size="36" fill="#ffd23f">11</text>
@@ -46,8 +46,8 @@
   <text x="40" y="198" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">ULTIMAS SUBMISSOES ACEITAS</text>
   <text x="860" y="198" text-anchor="end" font-family="'Courier New',monospace" font-size="11" letter-spacing="2" fill="#8a6fa8">ATUALIZADO EM 06/11/2026</text>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ffd23f">
-    <text x="40" y="222">&gt; Longest Common Prefix  [typescript]</text>
-    <text x="40" y="240">&gt; Roman to Integer  [typescript]</text>
-    <text x="40" y="258"></text>
+    <text x="40" y="222">&gt; Length of Last Word  [java]</text>
+    <text x="40" y="240">&gt; Longest Common Prefix  [typescript]</text>
+    <text x="40" y="258">&gt; Roman to Integer  [typescript]</text>
   </g>
 </svg>
