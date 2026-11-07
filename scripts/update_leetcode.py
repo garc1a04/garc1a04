@@ -10,7 +10,7 @@ USERNAME = "guigarciamonteiro"
 GRAPHQL_URL = "https://leetcode.com/graphql"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, "Assets", "leetcode_template.svg")
-OUTPUT = os.path.join(ROOT, "Assets", "leetcode.svg")
+OUTPUT = os.path.join(ROOT, "Assets", "leetcode_2.svg")
 MAX_RECENT = 3
 
 # Dates are shown in this UTC offset (Fortaleza = UTC-3)
