@@ -47,9 +47,15 @@
   <text x="40" y="198" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">LATEST ACCEPTED SUBMISSIONS</text>
   <text x="860" y="198" text-anchor="end" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">SUBMITTED ON</text>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ffd23f">
+<<<<<<< HEAD
     <text x="40" y="224">&gt; Length of Last Word  [java]</text>
     <text x="40" y="244">&gt; Longest Common Prefix  [typescript]</text>
     <text x="40" y="264">&gt; Roman to Integer  [typescript]</text>
+=======
+    <text x="40" y="222">&gt; Length of Last Word  [java]</text>
+    <text x="40" y="240">&gt; Longest Common Prefix  [typescript]</text>
+    <text x="40" y="258">&gt; Roman to Integer  [typescript]</text>
+>>>>>>> 40b779cb06a2b4fe7eb378b40325f1e3d5dfd526
   </g>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ff9f1c" text-anchor="end">
     <text x="860" y="224">NOV 06, 2026</text>
