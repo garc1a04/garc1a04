@@ -23,13 +23,13 @@
   <!-- Stats -->
   <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
     <text x="150" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">SOLVED</text>
-    <text x="150" y="158" font-size="36" fill="#ffd23f">44</text>
+    <text x="150" y="158" font-size="36" fill="#ffd23f">45</text>
 
     <text x="350" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY</text>
     <text x="350" y="158" font-size="36" fill="#2ec4b6">30</text>
 
     <text x="550" y="124" font-size="14" letter-spacing="2" fill="#ffd23f">MEDIUM</text>
-    <text x="550" y="158" font-size="36" fill="#ffd23f">13</text>
+    <text x="550" y="158" font-size="36" fill="#ffd23f">14</text>
 
     <text x="750" y="124" font-size="14" letter-spacing="2" fill="#ff3da1">HARD</text>
     <text x="750" y="158" font-size="36" fill="#ff3da1">1</text>
@@ -47,13 +47,13 @@
   <text x="40" y="198" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">LATEST ACCEPTED SUBMISSIONS</text>
   <text x="860" y="198" text-anchor="end" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">SUBMITTED ON</text>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ffd23f">
-    <text x="40" y="224">&gt; String Compression  [java]</text>
-    <text x="40" y="244">&gt; Reverse Words in a String  [java]</text>
-    <text x="40" y="264">&gt; Reverse Vowels of a String  [java]</text>
+    <text x="40" y="224">&gt; Increasing Triplet Subsequence  [java]</text>
+    <text x="40" y="244">&gt; String Compression  [java]</text>
+    <text x="40" y="264">&gt; Reverse Words in a String  [java]</text>
   </g>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ff9f1c" text-anchor="end">
     <text x="860" y="224">NOV 11, 2026</text>
-    <text x="860" y="244">NOV 08, 2026</text>
+    <text x="860" y="244">NOV 11, 2026</text>
     <text x="860" y="264">NOV 08, 2026</text>
   </g>
 
