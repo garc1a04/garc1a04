@@ -23,13 +23,13 @@
   <!-- Stats -->
   <g font-family="'Courier New',monospace" text-anchor="middle" font-weight="bold">
     <text x="150" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">SOLVED</text>
-    <text x="150" y="158" font-size="36" fill="#ffd23f">49</text>
+    <text x="150" y="158" font-size="36" fill="#ffd23f">50</text>
 
     <text x="350" y="124" font-size="14" letter-spacing="2" fill="#2ec4b6">EASY</text>
     <text x="350" y="158" font-size="36" fill="#2ec4b6">34</text>
 
     <text x="550" y="124" font-size="14" letter-spacing="2" fill="#ffd23f">MEDIUM</text>
-    <text x="550" y="158" font-size="36" fill="#ffd23f">14</text>
+    <text x="550" y="158" font-size="36" fill="#ffd23f">15</text>
 
     <text x="750" y="124" font-size="14" letter-spacing="2" fill="#ff3da1">HARD</text>
     <text x="750" y="158" font-size="36" fill="#ff3da1">1</text>
@@ -47,14 +47,14 @@
   <text x="40" y="198" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">LATEST ACCEPTED SUBMISSIONS</text>
   <text x="860" y="198" text-anchor="end" font-family="'Courier New',monospace" font-weight="bold" font-size="13" letter-spacing="2" fill="#2ec4b6">SUBMITTED ON</text>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ffd23f">
-    <text x="40" y="224">&gt; Find Pivot Index  [java]</text>
-    <text x="40" y="244">&gt; Find the Highest Altitude  [java]</text>
-    <text x="40" y="264">&gt; Is Subsequence  [java]</text>
+    <text x="40" y="224">&gt; Product of Array Except Self  [java]</text>
+    <text x="40" y="244">&gt; Find Pivot Index  [java]</text>
+    <text x="40" y="264">&gt; Find the Highest Altitude  [java]</text>
   </g>
   <g font-family="'Courier New',monospace" font-size="14" fill="#ff9f1c" text-anchor="end">
-    <text x="860" y="224">NOV 21, 2026</text>
-    <text x="860" y="244">NOV 18, 2026</text>
-    <text x="860" y="264">NOV 15, 2026</text>
+    <text x="860" y="224">NOV 22, 2026</text>
+    <text x="860" y="244">NOV 21, 2026</text>
+    <text x="860" y="264">NOV 18, 2026</text>
   </g>
 
   <!-- Footer -->
